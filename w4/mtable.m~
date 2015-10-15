@@ -1,6 +1,0 @@
-function [a s]=mtable(n,m)
-for ii=1:n
-    for jj=1:m
-        a(ii,jj)=ii*jj;
-    end
-end
